@@ -1,0 +1,205 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?9f7x0t');
+  src:  url('../fonts/icomoon.eot?9f7x0t#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?9f7x0t') format('truetype'),
+    url('../fonts/icomoon.woff?9f7x0t') format('woff'),
+    url('../fonts/icomoon.svg?9f7x0t#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-eye:before {
+  content: "\e933";
+}
+.icon-dinner:before {
+  content: "\e925";
+}
+.icon-lunch:before {
+  content: "\e926";
+}
+.icon-breakfast:before {
+  content: "\e927";
+  color: #fff;
+}
+.icon-expired-cases:before {
+  content: "\e920";
+  color: #ea4335;
+}
+.icon-square:before {
+  content: "\e91f";
+  color: #fcb040;
+}
+.icon-dropdown:before {
+  content: "\e91e";
+}
+.icon-close-door:before {
+  content: "\e924";
+}
+.icon-door:before {
+  content: "\e921";
+}
+.icon-offline-devices:before {
+  content: "\e922";
+  color: #ea4335;
+}
+.icon-online-devices:before {
+  content: "\e923";
+  color: #029d4a;
+}
+.icon-pending-order:before {
+  content: "\e91c";
+}
+.icon-purchase-order:before {
+  content: "\e91d";
+}
+.icon-delete:before {
+  content: "\e91a";
+}
+.icon-edit:before {
+  content: "\e91b";
+}
+.icon-close1:before {
+  content: "\e919";
+  color: #fff;
+}
+.icon-circle:before {
+  content: "\e918";
+  color: #fff;
+}
+.icon-membership:before {
+  content: "\e928";
+  color: #fcb040;
+}
+.icon-active-member:before {
+  content: "\e929";
+}
+.icon-member:before {
+  content: "\e92a";
+}
+.icon-meal:before {
+  content: "\e92b";
+}
+.icon-veg-non:before {
+  content: "\e92c";
+  color: #029d4a;
+}
+.icon-left-arrow:before {
+  content: "\e916";
+  color: #0d99ff;
+}
+.icon-dots1:before {
+  content: "\e915";
+}
+.icon-overtme-clock:before {
+  content: "\e917";
+}
+.icon-close:before {
+  content: "\e913";
+}
+.icon-drag:before {
+  content: "\e914";
+  color: #0d99ff;
+}
+.icon-dark-theme:before {
+  content: "\e911";
+}
+.icon-filter:before {
+  content: "\e912";
+}
+.icon-backup:before {
+  content: "\e90a";
+}
+.icon-search:before {
+  content: "\e90f";
+}
+.icon-setting1:before {
+  content: "\e910";
+}
+.icon-sports-courts:before {
+  content: "\e930";
+}
+.icon-gym:before {
+  content: "\e931";
+}
+.icon-swimming-pool:before {
+  content: "\e932";
+}
+.icon-yoga:before {
+  content: "\e92d";
+}
+.icon-strength:before {
+  content: "\e92e";
+}
+.icon-cardio:before {
+  content: "\e92f";
+}
+.icon-users:before {
+  content: "\e905";
+  color: #717680;
+}
+.icon-onboarding:before {
+  content: "\e907";
+  color: #717680;
+}
+.icon-recruitment:before {
+  content: "\e908";
+  color: #717680;
+}
+.icon-reports:before {
+  content: "\e900";
+  color: #717680;
+}
+.icon-offboarding:before {
+  content: "\e901";
+  color: #717680;
+}
+.icon-payroll:before {
+  content: "\e902";
+  color: #717680;
+}
+.icon-expences:before {
+  content: "\e903";
+  color: #717680;
+}
+.icon-overtime:before {
+  content: "\e904";
+  color: #717680;
+}
+.icon-clock:before {
+  content: "\e906";
+  color: #717680;
+}
+.icon-dots:before {
+  content: "\e909";
+}
+.icon-notification:before {
+  content: "\e90b";
+}
+.icon-bottom-arrow:before {
+  content: "\e90c";
+  color: #0d99ff;
+}
+.icon-right-arrow:before {
+  content: "\e90d";
+  color: #0d99ff;
+}
+.icon-MENU:before {
+  content: "\e90e";
+}
